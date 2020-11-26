@@ -319,3 +319,7 @@ Zipkin给出三种数据持久化方法：
 - Cassandra
 
 相关的官方文档：[https://github.com/openzipkin/zipkin#storage-component](https://github.com/openzipkin/zipkin#storage-component) 介绍Elasticsearch实现Zipkin数据。
+
+#### 欢迎关注
+
+![个人公众号](https://github.com/typ1805/blog-cloud/logo.jpg)
