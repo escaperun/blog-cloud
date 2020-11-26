@@ -1,4 +1,4 @@
-# Blog Cloud
+﻿# Blog Cloud
 
 
 Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
@@ -322,4 +322,4 @@ Zipkin给出三种数据持久化方法：
 
 #### 欢迎关注
 
-![个人公众号](https://github.com/typ1805/blog-cloud/logo.jpg)
+![个人公众号](https://images.gitee.com/uploads/images/2020/0425/154219_3cff657a_1739235.jpeg "欢迎关注个人公众号")
